@@ -1,0 +1,3 @@
+import cv2
+
+def put_string(frame, text, pt, value, color=(120, 200, 90)):
